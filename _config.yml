@@ -12,6 +12,7 @@ aux_links:
     - https://github.com/seonokkim
 
 nav_enabled: true
+footer_content: ""
 
 plugins:
   - jekyll-remote-theme
