@@ -31,3 +31,7 @@ node_modules
 
 # Used for automated test results and metadata.
 tmp/
+
+
+# Documentation
+_dev_documents/
