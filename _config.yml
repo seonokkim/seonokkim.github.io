@@ -1,4 +1,6 @@
 title: Riley Kim
 description: AI Research Engineer
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 url: https://seonokkim.github.io
+plugins:
+  - jekyll-remote-theme
