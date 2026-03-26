@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-# Riley Kim
+# Seonok Kim
 
 AI Research Engineer focused on multimodal retrieval, RAG, and vision-language systems.
 

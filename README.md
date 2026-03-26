@@ -1,4 +1,4 @@
-# Riley Kim - Personal Website
+# Seonok Kim - Personal Website
 
 This repository contains the source for my GitHub Pages site.
 
